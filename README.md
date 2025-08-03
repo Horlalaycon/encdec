@@ -6,11 +6,11 @@
 - ```python3 encdec.py --type base64 --decode --message "aGVsbG8gdGhlcmU="```
 
 ### options:
-- ```-h, --help            	   Show this help message and exit```
-- ```-t, --type                Specify Method (base64, rot13, hex)```
-- ```-e, --encode			   Perform an endoding Operation```
-- ```-d, --decode     	       Perform an decoding Operation```
-- ```-m, --message			   Enter Message/Cipher ```
+- ```-h, --help            	   Show this help message and exit.```
+- ```-t, --type                Specify Method (base64, rot13, hex.)```
+- ```-e, --encode			   Perform an endoding Operation.```
+- ```-d, --decode     	       Perform an decoding Operation.```
+- ```-m, --message			   Enter Message/Cipher.```
 
 ## Installation
 - ```git clone https://github.com/Horlalaycon/encdec.git```
